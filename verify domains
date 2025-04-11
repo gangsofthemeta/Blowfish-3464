@@ -1,3 +1,14 @@
+# Main Site
+https://www.gotmlabz.io/
+----------------------------------------
+# Staking Sites
+Primary = https://www.nftstake.app
+
+# Sub Domains
+https://staking.thc-labz.xyz
+https://stake.thexbank.io
+https://staking.frenslabs.io
+----------------------------------------
 # Trait Store Sites
 Primary = https://www.traitstore.app
 
@@ -9,18 +20,11 @@ https://traits.thc-labz.xyz
 https://traits.frenslabs.io
 https://traitswap.suitup.gg
 https://traitstore.greatgoats.io
-
-# Staking Sites
-Primary = https://www.nftstake.app
-
-# Sub Domains
-https://staking.thc-labz.xyz
-https://stake.thexbank.io
-https://staking.frenslabs.io
-
+----------------------------------------
 # Launch Pad
 https://www.nftlaunch.app
 https://www.nftlaunch.app/mint/gainz
-
+----------------------------------------
 # Meta Mate
 https://metamate.pro/
+----------------------------------------
