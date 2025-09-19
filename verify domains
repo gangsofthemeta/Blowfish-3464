@@ -1,15 +1,17 @@
-# Main Site
+### Main Site
 https://www.gotmlabz.io/
+
 ----------------------------------------
-# Staking Sites
+### NFT Staking Sites
 Primary = https://www.nftstake.app
 
 # Sub Domains
 https://staking.thc-labz.xyz
 https://stake.thexbank.io
 https://staking.frenslabs.io
+https://founders.pogvault.com
 ----------------------------------------
-# Trait Store Sites
+### Trait Store Sites
 Primary = https://www.traitstore.app
 
 # Sub Domains
@@ -20,27 +22,30 @@ https://traits.thc-labz.xyz
 https://traits.frenslabs.io
 https://traitswap.suitup.gg
 https://traitstore.greatgoats.io
+
 ----------------------------------------
-# Launch Pad
+### Launch Pad
 https://www.nftlaunch.app
 https://www.nftlaunch.app/mint/gainz
 
 # Sub Domains
-https://mint.memetheftauto.io/
+https://mint.memetheftauto.io
 
 ----------------------------------------
-# Meta Mate
-https://metamate.pro/
+### Shift3
+https://www.shift3.app
+
 ----------------------------------------
-# Shift3
-https://www.shift3.app/
-----------------------------------------
-# Airdrop Claim
+### Airdrop Claim
 https://airdrop.gotmlabz.io
 
 subdomains
 https://airdrop.gotmlabz.io/airdrop/vtopia
 https://airdrop.gotmlabz.io/airdrop/gotm
+
 ----------------------------------------
-# SPL Token Staking
-https://stake.gotmlabz.io/
+### SPL Token Staking
+https://stake.gotmlabz.io
+
+# Sub Domains
+https://coin.pogvault.com
